@@ -1,6 +1,6 @@
 # A robust method for automated segmentation of optic disc using hypercolumn deep features
 
-#Kemal Akyol, Murat Uçar, Yusuf Yargı Baydilli, Ümit Atila
+# Kemal Akyol, Murat Uçar, Yusuf Yargı Baydilli, Ümit Atila
 
 
 
